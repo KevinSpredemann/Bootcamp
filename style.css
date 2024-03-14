@@ -315,5 +315,22 @@ input[type="submit"]{
         .checkbox-name{
             font-size: 15px
         }
-        
+
+        footer .linha1{
+            flex-direction: column;
+        }
+
+        footer .endereço{
+            height: 50px;
+            font-size: 19px;
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 0px 6px 0px 6px;
+        } 
+
+        footer .linha2{
+            padding-bottom: 20px;
+            font-size: 19px;
+            align-items: center;
+        }
     }
